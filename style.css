@@ -1,6 +1,6 @@
 .foto_perfil {
   height: 100%;
-  width: 35%;
+  width: 27%;
   max-width: auto;
   border-radius: 50%;
   border-style: groove;
@@ -19,6 +19,8 @@ p {
 .icones {
   padding-left: 5px;
   height: 30px;
+  font-size: 40px;
+  color: black;
 }
 .titulosBrancos {
   text-decoration: underline;
@@ -84,4 +86,23 @@ p {
 }
 .corFooter1 {
   background-color: #070707;
+}
+
+.txtNav{
+  font-size: 20px; 
+  text-align: left; 
+  padding-left: 10px
+}
+
+.iconesFooter {
+  padding-left: 3px;
+  height: 30px;
+  font-size: 30px;
+  color: whitesmoke;
+}
+
+.imgHabilidade{
+  height: 100%;
+  width: 27%;
+  max-width: auto;
 }
