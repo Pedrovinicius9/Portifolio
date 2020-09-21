@@ -106,3 +106,14 @@ p {
   width: 27%;
   max-width: auto;
 }
+
+.txtProjeto{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tituloProjeto{
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 16px;
+}
