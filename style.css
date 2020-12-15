@@ -31,6 +31,7 @@ p {
   font-weight: 700;
   color: black;
   text-align: center;
+  text-decoration: none;
 }
 
 .titulosVerdes {
@@ -100,22 +101,11 @@ p {
   max-width: auto;
 }
 
-.tituloProjeto {
-  font-size: 45px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  padding-left: 16px;
-}
 
 .textoDescricao{
   font-size: 22px;
   text-align: left;
 }
-
-
-
-
-
-
 
 /*---------------------------------------------------------------*/
 
